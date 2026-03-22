@@ -24,3 +24,6 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Removed unused variable declarations
 - Updated dependencies to latest stable versions
+
+## 2026-03-23
+- Updated license year
