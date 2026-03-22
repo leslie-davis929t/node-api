@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Added .editorconfig for consistent formatting
 - Reviewed codebase, identified areas for improvement
+
+## 2026-03-22
+- Pinned dependency versions for reproducibility
+- Added basic retry logic for network requests
